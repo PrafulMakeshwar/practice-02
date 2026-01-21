@@ -1,0 +1,1 @@
+This is html and css demo project. The fonts I used are Wasted-vindey and HelveticaNowdisplay. You can download on your own if you want to use it. Obvisouly, I can't upload it on git. It creates problem, I personally would avoid.
